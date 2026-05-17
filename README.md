@@ -3,12 +3,14 @@
 # Talha Arif
 ### Flutter Developer · Mobile App Engineer
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -39,7 +41,6 @@ Networking     →  REST APIs, HTTP, JSON
 Tools          →  Git, GitHub, VS Code
 ```
 
----
 
 ## Currently
 
@@ -49,8 +50,22 @@ Tools          →  Git, GitHub, VS Code
 
 ---
 
+## Connect With Me
+
 <div align="center">
 
-💼 Open to Flutter opportunities &nbsp;·&nbsp; 🔗 [github.com/Talhaarif326](https://github.com/Talhaarif326)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TalhaArif794)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talhaarif326)
+
+<br/>
+
+📫 Reach me on X/Twitter **[@TalhaArif794](https://x.com/TalhaArif794)**
+&nbsp;·&nbsp;
+💼 Open to Flutter opportunities
+&nbsp;·&nbsp;
+🔗 [github.com/Talhaarif326](https://github.com/Talhaarif326)
 
 </div>
